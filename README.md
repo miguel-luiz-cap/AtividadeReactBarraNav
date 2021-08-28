@@ -1,3 +1,3 @@
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/miguel-luiz-cap/AtividadeReactBarraNav/main/screenshot/1.gif)
+![ScreenShot](https://github.com/miguel-luiz-cap/AtividadeReactBarraNav/blob/main/screenshot/1.gif?raw=true)
